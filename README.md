@@ -19,18 +19,9 @@ Users can watch exercise videos from YouTube by entering keywords into the searc
 Save Favorite Exercises
 Users can save their favorite exercises by clicking the heart icon next to an exercise. The app will store the user's favorite exercises in local storage so that they can be accessed later.
 
-Contributing
-If you would like to contribute to the fitness app, please follow these steps:
-
-Fork the repository.
-Create a new branch for your changes.
-Make your changes and commit them.
-Push your changes to your fork.
-Submit a pull request.
-License
-The fitness app is licensed under the MIT License. See the LICENSE file for more information.
 
 
 
 
+contact me
 ceeprel@gmail.com
